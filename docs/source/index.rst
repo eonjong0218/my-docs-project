@@ -1,7 +1,10 @@
 ReviewEat - 지도 기반 맛집 리뷰 앱
 ===================================
 
-지도 기반 탐색과 개인 리뷰 작성을 결합한 모던한 맛집 관리 앱
+지도 기반 탐색과 개인 리뷰 작성을 결합한 맛집 관리 앱
+
+**GitHub 저장소**: `ReviewEat Repository
+<https://github.com/eonjong0218/revieweat>`_
 
 .. toctree::
    :maxdepth: 2
