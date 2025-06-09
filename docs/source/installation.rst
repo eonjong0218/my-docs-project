@@ -308,3 +308,5 @@ Docker Compose를 사용하여 백엔드와 데이터베이스를 실행합니�
 
    # 데이터베이스 접속
    docker-compose exec db psql -U postgres -d revieweat
+
+

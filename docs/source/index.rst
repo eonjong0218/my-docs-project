@@ -30,18 +30,6 @@ ReviewEat - 지도 기반 맛집 리뷰 앱
    contributing
    development
 
-빠른 시작
-========
-
-ReviewEat은 Google Maps API와 Flutter를 활용한 크로스 플랫폼 맛집 리뷰 앱입니다.
-
-**주요 특징**
-
-* 🗺️ 실시간 지도 기반 음식점 탐색
-* 📝 개인화된 리뷰 작성 및 관리  
-* 📅 달력형 리뷰 일기장
-* 📱 iOS/Android 크로스 플랫폼 지원
-
 **시작하기**
 
 프로젝트를 시작하려면 :doc:`installation` 가이드를 확인하세요.
