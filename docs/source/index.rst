@@ -13,7 +13,6 @@ ReviewEat - 지도 기반 맛집 리뷰 앱
    introduction
    features
    installation
-   usage
 
 .. toctree::
    :maxdepth: 2
